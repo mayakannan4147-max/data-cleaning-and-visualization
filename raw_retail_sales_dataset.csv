@@ -1,0 +1,509 @@
+Order_ID,Order_Date,Customer_Age,Gender,Product,Category,Region,Quantity,Unit_Price,Total_Sales,Payment_Method,Customer_Rating
+ORD0201,2025-08-16,23.0,Female,Laptop,Electronics,East,4,49598.83,198395.32,Credit Card,
+ORD0143,2025-07-10,26.0,Male,Laptop,Electronics,East,4,48343.31,193373.24,Credit Card,4.0
+ORD0265,2025-08-19,41.0,Male,Phone,Electronics,South,3,26100.29,78300.87,Credit Card,3.0
+ORD0490,2025-12-18,37.0,Male,Headphones,Accessories,East,5,1587.31,7936.55,Cash,4.0
+ORD0213,2025-11-07,27.0,Female,Keyboard,Accessories,East,4,1093.45,4373.8,UPI,4.0
+ORD0021,2025-01-17,39.0,Male,Mouse,Accessories,South,1,643.08,643.08,UPI,4.0
+ORD0350,2025-10-23,58.0,Male,Laptop,Electronics,West,3,58503.33,175509.99,Cash,5.0
+ORD0374,2025-07-15,63.0,Female,Phone,Electronics,West,5,27211.35,136056.75,Cash,3.0
+ORD0058,2025-10-08,46.0,Male,Monitor,Electronics,West,5,11736.27,58681.35,Cash,3.0
+ORD0062,2025-07-19,55.0,Male,Laptop,Electronics,West,2,60492.7,120985.4,Cash,1.0
+ORD0036,2025-10-11,37.0,Male,Mouse,Accessories,South,5,596.64,2983.2,UPI,1.0
+ORD0229,2025-10-15,38.0,Female,Mouse,Accessories,West,2,703.92,1407.84,UPI,2.0
+ORD0460,2025-08-22,39.0,Female,Monitor,Electronics,North,2,12556.55,25113.1,Debit Card,4.0
+ORD0462,2025-07-01,58.0,Female,Mouse,Accessories,East,2,595.46,1190.92,Credit Card,1.0
+ORD0390,2025-10-23,59.0,Male,Keyboard,Accessories,South,1,1318.37,1318.37,Cash,1.0
+ORD0053,28/03/2025,60.0,Male,Mouse,Accessories,East,2,702.35,1404.7,UPI,1.0
+ORD0368,2025-04-24,26.0,Male,Phone,Electronics,West,1,21339.68,21339.68,UPI,1.0
+ORD0174,2025-10-20,46.0,Female,Keyboard,Accessories,East,2,1152.42,2304.84,Cash,5.0
+ORD0142,2025-03-20,61.0,Female,Mouse,Accessories,North,3,673.6,2020.8,Credit Card,1.0
+ORD0250,2025-10-26,49.0,Male,Keyboard,Accessories,West,1,1264.91,1264.91,Credit Card,4.0
+ORD0114,2025-03-16,33.0,Female,Headphones,Accessories,South,3,1732.41,5197.23,Debit Card,2.0
+ORD0067,2025-08-04,34.0,Male,Keyboard,Accessories,West,3,1290.72,3872.16,Credit Card,5.0
+ORD0454,2025-11-13,24.0,,Monitor,Electronics,South,5,12677.67,63388.35,Cash,3.0
+ORD0312,2025-08-23,57.0,Male,Laptop,Electronics,East,3,52557.75,157673.25,Credit Card,2.0
+ORD0017,2025-10-18,23.0,Male,Headphones,Accessories,West,2,1561.28,3122.56,Credit Card,5.0
+ORD0181,2025-03-18,53.0,Female,Laptop,Electronics,North,3,50308.3,150924.9,UPI,2.0
+ORD0277,2025-10-02,36.0,Male,Laptop,Electronics,West,5,,293330.9,Debit Card,1.0
+ORD0191,2025-08-12,43.0,Female,Headphones,Accessories,West,1,1961.64,1961.64,UPI,2.0
+ORD0358,2025-10-05,40.0,Male,Laptop,Electronics,East,4,47144.52,188578.08,Credit Card,4.0
+ORD0097,2025-12-10,24.0,Male,Headphones,Accessories,East,4,1709.99,6839.96,Cash,4.0
+ORD0071,2025-04-12,22.0,Male,Monitor,Electronics,North,4,11627.96,46511.84,UPI,5.0
+ORD0351,2025-10-18,28.0,Female,Headphones,Accessories,South,1,1799.79,1799.79,UPI,1.0
+ORD0188,2025-09-03,58.0,Male,Mouse,Accessories,South,4,800.97,3203.88,Credit Card,
+ORD0026,2025-10-04,18.0,Male,Laptop,Electronics,South,1,57510.39,57510.39,Debit Card,4.0
+ORD0005,2025-01-23,64.0,Female,Headphones,Accessories,North,5,1672.84,8364.2,Cash,1.0
+ORD0202,2025-03-22,63.0,Male,Monitor,Electronics,East,3,13408.79,40226.37,Debit Card,1.0
+ORD0372,2025-11-14,57.0,Male,Keyboard,Accessories,East,2,1032.47,2064.94,Cash,4.0
+ORD0013,2025-11-02,47.0,Female,Monitor,Electronics,North,1,11585.16,11585.16,Credit Card,5.0
+ORD0435,2025-11-17,64.0,Male,Phone,Electronics,,1,26325.61,26325.61,UPI,3.0
+ORD0496,07/09/2025,39.0,Female,Laptop,Electronics,South,2,58722.22,117444.44,Debit Card,1.0
+ORD0302,2025-11-27,61.0,Female,Phone,Electronics,East,5,21582.23,107911.15,Cash,
+ORD0158,2025-02-09,50.0,Male,Phone,Electronics,South,3,27093.38,81280.14,UPI,3.0
+ORD0449,2025-02-17,41.0,Female,Keyboard,Accessories,South,5,1116.59,5582.95,Credit Card,4.0
+ORD0416,2025-08-31,55.0,Female,Monitor,Electronics,East,4,10839.3,43357.2,Debit Card,3.0
+ORD0479,2025-06-15,56.0,Male,Mouse,Accessories,East,2,603.39,1206.78,Cash,5.0
+ORD0396,2025-02-19,19.0,Male,Headphones,Accessories,South,5,1789.38,8946.9,UPI,
+ORD0403,2025-03-06,20.0,Female,Phone,Electronics,North,2,27313.46,54626.92,Cash,2.0
+ORD0105,2025-09-17,35.0,Male,Keyboard,Accessories,East,3,1356.33,4068.99,UPI,5.0
+ORD0192,2025-09-23,35.0,Male,Keyboard,Accessories,West,4,1152.24,4608.96,Credit Card,4.0
+ORD0117,2025-06-03,58.0,Female,Keyboard,Accessories,East,3,1375.55,4126.65,Cash,3.0
+ORD0041,2025-01-21,40.0,Male,Headphones,Accessories,South,3,2015.45,6046.35,Credit Card,3.0
+ORD0128,2025-10-03,26.0,Female,Laptop,Electronics,West,1,50624.2,50624.2,UPI,5.0
+ORD0196,2025-03-15,56.0,Female,Monitor,Electronics,North,2,13630.04,27260.08,Debit Card,1.0
+ORD0477,2025-02-08,29.0,Male,Keyboard,Accessories,North,2,1374.04,2748.08,Cash,1.0
+ORD0452,2025-11-10,19.0,Male,Monitor,Electronics,West,4,13004.99,52019.96,Cash,1.0
+ORD0319,2025-01-22,64.0,Female,Monitor,Electronics,South,3,12151.36,36454.08,Cash,1.0
+ORD0218,2025-09-11,56.0,Female,Headphones,Accessories,East,1,1557.29,1557.29,Credit Card,1.0
+ORD0038,2025-01-27,23.0,Female,Monitor,Electronics,East,4,11104.04,44416.16,Credit Card,1.0
+ORD0046,2025-10-02,39.0,Male,Mouse,Accessories,North,5,678.93,3394.65,UPI,2.0
+ORD0210,2025-11-25,54.0,Female,Laptop,Electronics,South,1,48090.18,48090.18,Cash,5.0
+ORD0348,2025-06-27,51.0,Female,Mouse,Accessories,South,1,629.4,629.4,UPI,2.0
+ORD0280,2025-07-14,42.0,Female,Mouse,Accessories,North,1,614.64,614.64,Credit Card,2.0
+ORD0044,2025-04-24,30.0,Female,Keyboard,Accessories,East,1,1329.09,1329.09,UPI,2.0
+ORD0257,2025-02-27,20.0,Female,Headphones,Accessories,SOUTH,2,1678.85,3357.7,Debit Card,2.0
+ORD0187,2025-06-20,26.0,Male,Phone,Electronics,east,1,27036.26,27036.26,UPI,2.0
+ORD0197,2025-10-18,20.0,Male,Phone,Electronics,West,3,23966.13,71898.39,UPI,3.0
+ORD0252,2025-10-24,22.0,Male,Headphones,Accessories,West,1,1932.73,1932.73,UPI,1.0
+ORD0010,2025-02-03,31.0,,Laptop,Electronics,South,3,53369.22,160107.66,Cash,4.0
+ORD0299,2025-02-05,44.0,Female,Keyboard,Accessories,South,3,1319.26,3957.78,UPI,2.0
+ORD0014,2025-08-11,28.0,Female,Headphones,Accessories,North,3,1590.24,4770.72,UPI,5.0
+ORD0297,2025-12-22,150.0,Female,Keyboard,Accessories,,3,1124.92,3374.76,UPI,4.0
+ORD0307,2025-06-25,59.0,Male,Laptop,Electronics,South,1,47122.65,47122.65,Debit Card,5.0
+ORD0413,2025-09-26,54.0,Male,Mouse,Accessories,South,5,679.71,3398.55,Debit Card,2.0
+ORD0092,2025-03-14,22.0,Male,Phone,Electronics,South,2,28063.09,56126.18,UPI,5.0
+ORD0267,08/04/2025,65.0,Male,Headphones,Accessories,West,1,1644.38,1644.38,Debit Card,5.0
+ORD0052,2025-04-18,45.0,Female,Monitor,Electronics,West,1,11293.95,11293.95,Cash,4.0
+ORD0224,2025-11-12,65.0,Female,Headphones,Accessories,East,2,1742.2,3484.4,Cash,5.0
+ORD0371,2025-03-30,40.0,Male,Laptop,Electronics,South,4,58023.01,232092.04,UPI,3.0
+ORD0165,2025-12-29,46.0,Female,Mouse,Accessories,South,2,603.22,1206.44,UPI,3.0
+ORD0150,2025-05-20,46.0,Female,Monitor,Electronics,West,1,12626.29,12626.29,Cash,4.0
+ORD0120,2025-04-08,57.0,Female,Monitor,Electronics,South,3,10988.42,32965.26, cash ,1.0
+ORD0334,2025-01-05,18.0,Female,Phone,Electronics,North,5,26349.87,131749.35,Cash,2.0
+ORD0245,2025-03-02,47.0,Female,Mouse,Accessories,South,2,608.05,1216.1,Cash,5.0
+ORD0023,2025-08-09,40.0,Female,Phone,Electronics,West,1,21976.98,21976.98,Cash,1.0
+ORD0383,2025-08-12,58.0,Female,Headphones,Accessories,East,2,2056.96,4113.92,Debit Card,5.0
+ORD0411,2025-06-14,35.0,Female,Mouse,Accessories,North,4,757.55,3030.2,Debit Card,4.0
+ORD0266,2025-02-07,30.0,Male,Keyboard,Accessories,West,5,1237.05,6185.25, cash ,3.0
+ORD0295,2025-07-22,39.0,Female,Laptop,Electronics,East,2,51776.86,103553.72,Cash,3.0
+ORD0137,2025-11-26,19.0,Male,Laptop,Electronics,West,5,51726.9,258634.5,Cash,4.0
+ORD0253,2025-02-05,48.0,Male,Monitor,Electronics,East,1,13564.5,13564.5,Cash,2.0
+ORD0379,2025-03-31,49.0,Male,Phone,Electronics,North,4,25315.93,101263.72,Credit Card,2.0
+ORD0419,2025-01-05,32.0,Female,Mouse,Accessories,East,2,721.24,1442.48,UPI,4.0
+ORD0336,2025-03-10,59.0,Male,Headphones,Accessories,North,2,1736.67,3473.34,Credit Card,5.0
+ORD0406,2025-10-29,55.0,Male,Keyboard,Accessories,North,2,1073.35,2146.7,Credit Card,3.0
+ORD0179,2025-02-20,63.0,Female,Phone,Electronics,South,1,23640.14,23640.14,Debit Card,1.0
+ORD0156,2025-06-16,28.0,Female,Headphones,Accessories,East,1,1748.72,1748.72,Credit Card,4.0
+ORD0325,18/05/2025,58.0,Female,Keyboard,Accessories,West,2,1227.87,2455.74,Cash,1.0
+ORD0409,2025-09-01,35.0,Female,Mouse,Accessories,North,2,605.35,1210.7,UPI,3.0
+ORD0324,2025-03-09,33.0,Male,Headphones,Accessories,,2,1908.77,3817.54,Debit Card,4.0
+ORD0430,2025-07-31,21.0,Male,Laptop,Electronics,South,4,55492.34,221969.36,Debit Card,3.0
+ORD0388,2025-02-04,40.0,Female,Headphones,Accessories,North,2,1664.75,3329.5,Credit Card,1.0
+ORD0289,2025-08-16,41.0,Female,Laptop,Electronics,North,1,62308.84,62308.84,Debit Card,1.0
+ORD0426,2025-10-13,29.0,Female,Headphones,Accessories,North,2,1983.94,3967.88,Cash,2.0
+ORD0083,2025-01-08,63.0,Male,Phone,Electronics,East,3,22595.81,67787.43,Credit Card,1.0
+ORD0056,2025-01-03,,Female,Phone,Electronics,South,2,26170.44,52340.88,Debit Card,5.0
+ORD0414,2025-01-26,41.0,Male,Laptop,Electronics,East,2,47295.67,94591.34,UPI,4.0
+ORD0450,2025-07-17,62.0,Female,Keyboard,Accessories,West,4,1117.86,4471.44,Debit Card,1.0
+ORD0500,2025-08-25,46.0,Female,Mouse,Accessories,East,3,779.36,2338.08,Cash,5.0
+ORD0135,31/03/2025,,Male,Phone,Electronics,South,5,23678.29,118391.45,Cash,5.0
+ORD0483,2025-11-11,57.0,Male,Keyboard,Accessories,North,2,1345.62,2691.24,UPI,4.0
+ORD0332,2025-11-29,28.0,Male,Laptop,Electronics,West,3,57714.4,173143.2,UPI,2.0
+ORD0274,2025-02-08,60.0,Male,Mouse,Accessories,North,1,705.03,705.03,Cash,2.0
+ORD0040,2025-07-09,55.0,,Laptop,Electronics,West,2,55752.24,111504.48,Debit Card,1.0
+ORD0405,2025-05-22,51.0,Female,Keyboard,Accessories,North,5,1137.41,5687.05,Cash,1.0
+ORD0048,2025-10-23,30.0,Female,Monitor,Electronics,North,1,11586.7,11586.7,Cash,1.0
+ORD0171,2025-02-21,50.0,Male,Phone,Electronics,East,1,23468.44,23468.44,Debit Card,5.0
+ORD0148,2025-09-29,31.0,Female,Phone,Electronics,West,1,21938.18,21938.18,Cash,3.0
+ORD0421,2025-11-01,56.0,Female,Monitor,Electronics,East,3,12221.25,36663.75,Credit Card,4.0
+ORD0024,2025-06-23,24.0,Male,Mouse,Accessories,South,1,607.73,607.73,Debit Card,5.0
+ORD0100,2025-09-13,58.0,Female,Phone,Electronics,North,5,23963.35,119816.75,Debit Card,3.0
+ORD0498,2025-03-20,54.0,Female,Mouse,Accessories,East,3,740.63,2221.89,Cash,2.0
+ORD0400,2025-07-31,55.0,Male,Mouse,Accessories,North,3,764.72,2294.16,Cash,5.0
+ORD0060,2025-06-21,38.0,Male,Mouse,Accessories,South,3,644.24,1932.72,Debit Card,2.0
+ORD0070,2025-02-28,28.0,Female,Headphones,Accessories,North,2,1857.18,3714.36,Credit Card,3.0
+ORD0240,2025-10-06,51.0,Female,Headphones,Accessories,South,4,2064.11,8256.44,Cash,3.0
+ORD0124,2025-10-13,41.0,Male,Mouse,Accessories,West,4,798.13,3192.52,Credit Card,3.0
+ORD0495,2025-10-09,47.0,Male,Mouse,Accessories,East,5,773.97,3869.85,Credit Card,3.0
+ORD0294,2025-07-04,34.0,Male,Headphones,Accessories,West,4,1952.64,7810.56,Debit Card,4.0
+ORD0012,2025-02-16,21.0,Male,Phone,Electronics,South,2,25071.45,50142.9,Debit Card,4.0
+ORD0248,2025-02-11,51.0,Female,Mouse,Accessories,East,5,778.36,3891.8,Credit Card,5.0
+ORD0160,2025-10-16,55.0,Female,Phone,Electronics,East,4,24729.65,98918.6,UPI,2.0
+ORD0415,2025-03-05,61.0,Male,Monitor,Electronics,South,4,12487.48,49949.92,UPI,4.0
+ORD0474,2025-11-28,53.0,Female,Monitor,Electronics,South,5,13313.43,66567.15,UPI,1.0
+ORD0341,2025-11-01,22.0,Male,Laptop,Electronics,East,2,54993.11,109986.22,UPI,2.0
+ORD0073,2025-08-04,49.0,Male,Mouse,Accessories,West,3,597.66,1792.98,UPI,4.0
+ORD0220,2025-10-11,36.0,Male,Monitor,Electronics,West,5,10900.76,54503.8,Cash,5.0
+ORD0090,2025-01-17,,Female,Keyboard,Accessories,East,100,1189.17,5500000.0,Cash,1.0
+ORD0129,2025-03-21,44.0,Male,Keyboard,Accessories,West,5,1287.22,6436.1,Cash,3.0
+ORD0375,2025-05-19,29.0,Male,Monitor,Electronics,East,5,11357.78,56788.9,Debit Card,1.0
+ORD0243,2025-03-13,48.0,Female,Keyboard,Accessories,South,1,1086.52,1086.52,Credit Card,3.0
+ORD0301,2025-07-04,62.0,Male,Monitor,Electronics,North,4,12157.12,48628.48,Debit Card,3.0
+ORD0107,2025-06-14,30.0,Male,Monitor,Electronics,West,4,11839.24,47356.96,Debit Card,4.0
+ORD0223,2025-09-23,47.0,Male,Phone,Electronics,South,3,27279.74,81839.22,UPI,5.0
+ORD0167,2025-05-26,34.0,Male,Laptop,Electronics,East,5,57943.26,289716.3,Credit Card,5.0
+ORD0464,2025-04-08,63.0,Female,Keyboard,Accessories,North,2,1184.54,2369.08,Cash,1.0
+ORD0180,2025-03-13,63.0,Female,Headphones,Accessories,West,4,1905.88,7623.52,Credit Card,1.0
+ORD0469,2025-04-13,31.0,Female,Headphones,Accessories,East,5,1871.59,9357.95,Debit Card,2.0
+ORD0284,2025-07-19,61.0,Female,Phone,Electronics,West,5,27509.88,137549.4,Debit Card,1.0
+ORD0027,2025-07-25,21.0,Male,Keyboard,Accessories,West,4,1096.95,4387.8,Credit Card,4.0
+ORD0178,2025-09-15,41.0,Male,Laptop,Electronics,West,4,47628.74,190514.96,Credit Card,3.0
+ORD0141,24/07/2025,44.0,Male,Keyboard,Accessories,East,3,1317.87,3953.61,Cash,3.0
+ORD0147,2025-06-29,18.0,Male,Headphones,Accessories,South,3,2027.63,6082.89,Cash,1.0
+ORD0290,2025-10-12,50.0,Female,Phone,Electronics,North,4,24616.33,98465.32,Credit Card,1.0
+ORD0263,2025-08-31,33.0,Male,Keyboard,Accessories,East,2,1291.59,2583.18,Debit Card,4.0
+ORD0457,2025-11-26,,,Laptop,Electronics,South,5,50424.66,252123.3,Credit Card,
+ORD0461,2025-11-04,48.0,Female,Headphones,Accessories,West,5,1944.4,9722.0,Credit Card,1.0
+ORD0015,2025-11-17,37.0,Male,Phone,Electronics,South,5,28094.71,140473.55,UPI,2.0
+ORD0362,2025-06-11,43.0,Female,Phone,Electronics,East,3,23207.43,69622.29,Cash,3.0
+ORD0445,2025-01-02,18.0,Male,Mouse,Accessories,North,4,664.43,2657.72,Cash,2.0
+ORD0283,2025-12-31,43.0,Male,Laptop,Electronics,East,2,,112872.2,Debit Card,5.0
+ORD0043,2025-07-30,60.0,Male,Phone,Electronics,East,3,27117.9,81353.7,Debit Card,1.0
+ORD0136,2025-07-05,50.0,Male,Laptop,Electronics,West,1,54608.06,54608.06, cash ,5.0
+ORD0217,2025-07-21,50.0,Female,Keyboard,Accessories,South,1,1052.42,1052.42,Debit Card,5.0
+ORD0321,2025-10-29,62.0,,Laptop,Electronics,West,2,50212.99,100425.98,Debit Card,5.0
+ORD0352,2025-09-18,18.0,Male,Monitor,Electronics,North,1,11022.26,11022.26,Debit Card,1.0
+ORD0273,2025-06-30,28.0,Male,Keyboard,Accessories,West,2,1283.8,2567.6,Debit Card,5.0
+ORD0093,2025-08-13,25.0,Female,Mouse,Accessories,East,5,788.45,3942.25,Cash,3.0
+ORD0402,2025-09-22,54.0,Male,Keyboard,Accessories,North,1,1200.76,1200.76,Cash,2.0
+ORD0177,2025-03-17,45.0,Male,Headphones,Accessories,South,4,2018.87,8075.48,Cash,3.0
+ORD0089,2025-03-30,53.0,Male,Headphones,Accessories,South,1,1614.81,1614.81,Credit Card,4.0
+ORD0106,2025-08-17,52.0,Female,Monitor,Electronics,East,4,13314.94,53259.76,CREDIT CARD,5.0
+ORD0233,2025-02-10,40.0,Female,Phone,Electronics,East,3,21565.5,64696.5,Cash,2.0
+ORD0007,2025-02-21,42.0,Female,Headphones,Accessories,West,1,1991.87,1991.87,UPI,2.0
+ORD0131,2025-05-22,30.0,Male,Mouse,Accessories,West,3,607.72,1823.16,Credit Card,2.0
+ORD0078,2025-05-04,62.0,Female,Phone,Electronics,West,4,24914.33,99657.32,Cash,1.0
+ORD0377,2025-01-29,32.0,Female,Phone,Electronics,East,2,23248.95,46497.9,Debit Card,2.0
+ORD0434,2025-10-01,30.0,Female,Keyboard,Accessories,North,4,1021.68,4086.72,UPI,5.0
+ORD0025,2025-05-23,47.0,Male,Keyboard,Accessories,North,2,1171.88,2343.76,Cash,5.0
+ORD0153,2025-05-11,36.0,Female,Headphones,Accessories,North,2,1944.37,3888.74,Credit Card,4.0
+ORD0328,2025-04-19,49.0,Female,Keyboard,Accessories,East,2,1368.53,2737.06,UPI,3.0
+ORD0407,2025-05-16,42.0,Female,Monitor,Electronics,West,3,13360.42,40081.26,Credit Card,2.0
+ORD0373,2025-05-24,42.0,,Monitor,Electronics,West,4,10419.52,41678.08,Debit Card,5.0
+ORD0094,2025-02-11,56.0,Male,Monitor,Electronics,West,5,11977.66,59888.3,UPI,5.0
+ORD0164,2025-02-01,46.0,Male,Monitor,Electronics,East,4,12004.92,48019.68,Credit Card,5.0
+ORD0437,2025-11-02,51.0,Female,Headphones,Accessories,West,4,1923.03,7692.12,Debit Card,3.0
+ORD0116,2025-12-08,18.0,Female,Keyboard,Accessories,East,3,1185.45,3556.35,Debit Card,1.0
+ORD0156,2025-06-16,28.0,Female,Headphones,Accessories,East,1,1748.72,1748.72,Credit Card,4.0
+ORD0109,2025-06-19,24.0,Female,Phone,Electronics,North,5,,142450.75,Cash,1.0
+ORD0183,2025-09-21,54.0,Male,Monitor,Electronics,South,5,10259.17,51295.85,UPI,4.0
+ORD0499,2025-04-24,63.0,Female,Laptop,Electronics,East,3,50811.89,152435.67,UPI,2.0
+ORD0322,2025-01-31,54.0,Female,Phone,Electronics,East,2,27351.47,54702.94,Debit Card,3.0
+ORD0144,2025-01-27,,Female,Headphones,Accessories,East,4,1998.77,7995.08,Credit Card,5.0
+ORD0468,2025-08-20,26.0,Male,Keyboard,Accessories,West,3,1369.38,4108.14,UPI,5.0
+ORD0393,2025-02-21,39.0,Male,Monitor,Electronics,South,4,10765.57,43062.28,Cash,5.0
+ORD0381,2025-06-15,21.0,Male,Mouse,Accessories,South,2,787.94,1575.88,Debit Card,1.0
+ORD0256,2025-10-06,45.0,Female,Headphones,Accessories,South,4,1893.69,7574.76,Debit Card,4.0
+ORD0088,2025-08-08,37.0,Male,Keyboard,Accessories,North,3,1329.66,3988.98,Debit Card,2.0
+ORD0278,2025-04-09,57.0,Female,Laptop,Electronics,East,5,49206.81,246034.05,UPI,4.0
+ORD0216,2025-04-08,28.0,Female,Headphones,Accessories,West,5,1919.41,9597.05,Cash,3.0
+ORD0020,2025-01-11,55.0,Male,Phone,Electronics,South,2,21730.19,43460.38,Credit Card,1.0
+ORD0364,2025-03-03,52.0,Female,Keyboard,Accessories,South,4,1133.05,4532.2,Cash,3.0
+ORD0214,2025-02-24,38.0,Male,Phone,Electronics,West,3,25112.35,75337.05,Credit Card,3.0
+ORD0446,2025-02-21,34.0,Male,Laptop,Electronics,West,5,47988.3,239941.5,UPI,3.0
+ORD0425,25/06/2025,64.0,Male,Mouse,Accessories,West,5,766.36,3831.8,UPI,5.0
+ORD0276,2025-12-04,,Male,Monitor,Electronics,North,5,13485.91,67429.55,Cash,1.0
+ORD0317,2025-02-12,54.0,Male,Mouse,Accessories,South,4,697.63,2790.52,UPI,1.0
+ORD0096,2025-05-23,29.0,Female,Keyboard,Accessories,West,5,1254.54,6272.7,Credit Card,4.0
+ORD0030,2025-09-29,28.0,Male,Keyboard,Accessories,North,5,1350.98,6754.9,Debit Card,1.0
+ORD0186,2025-05-10,65.0,Male,Mouse,Accessories,East,4,801.02,3204.08,Credit Card,3.0
+ORD0244,2025-05-17,39.0,Female,Keyboard,Accessories,North,2,1180.82,2361.64,UPI,3.0
+ORD0412,2025-09-22,41.0,Male,Phone,Electronics,South,4,26807.09,107228.36,Credit Card,3.0
+ORD0045,2025-07-24,39.0,Female,Phone,Electronics,North,1,26200.25,26200.25,UPI,3.0
+ORD0200,2025-11-10,36.0,Female,Mouse,Accessories,South,4,640.06,2560.24,Credit Card,2.0
+ORD0054,2025-04-12,27.0,Male,Phone,Electronics,North,3,22934.8,68804.4,Debit Card,4.0
+ORD0103,2025-03-20,49.0,Female,Keyboard,Accessories,East,1,1253.18,1253.18,Cash,4.0
+ORD0077,2025-06-24,35.0,Female,Phone,Electronics,North,3,27233.74,81701.22,Debit Card,
+ORD0356,2025-08-22,18.0,Female,Headphones,Accessories,South,3,1576.65,4729.95,UPI,5.0
+ORD0225,2025-07-08,39.0,Male,Headphones,Accessories,West,4,1970.5,7882.0,UPI,1.0
+ORD0098,2025-10-09,20.0,Female,Headphones,Accessories,North,4,1969.33,7877.32,UPI,3.0
+ORD0087,2025-03-02,53.0,Female,Headphones,Accessories,South,1,2066.72,2066.72,Cash,4.0
+ORD0047,2025-11-02,45.0,Female,Monitor,Electronics,SOUTH,3,10337.73,31013.19,Cash,5.0
+ORD0291,2025-11-03,38.0,Female,Headphones,Accessories,North,5,1580.25,7901.25,UPI,4.0
+ORD0365,2025-02-16,28.0,Female,Keyboard,Accessories,North,3,1326.89,3980.67,Debit Card,3.0
+ORD0031,2025-05-01,43.0,Male,Monitor,Electronics,South,1,12630.77,12630.77,Credit Card,5.0
+ORD0380,02/09/2025,18.0,Female,Monitor,Electronics,South,2,10271.74,20543.48,Debit Card,3.0
+ORD0344,2025-02-12,58.0,Male,Keyboard,Accessories,East,4,1272.65,5090.6,Credit Card,3.0
+ORD0199,2025-09-13,51.0,Female,Laptop,Electronics,North,1,58888.64,58888.64,UPI,3.0
+ORD0173,2025-11-09,36.0,Female,Headphones,Accessories,South,2,2053.58,4107.16,Debit Card,3.0
+ORD0146,2025-08-08,53.0,Male,Headphones,Accessories,East,5,1652.13,8260.65,Credit Card,2.0
+ORD0176,2025-12-31,51.0,Male,Headphones,Accessories,East,5,2034.52,10172.6,Credit Card,2.0
+ORD0320,2025-01-17,46.0,Female,Mouse,Accessories,East,2,657.52,1315.04,Credit Card,4.0
+ORD0157,2025-07-25,51.0,Male,Laptop,Electronics,West,2,53938.66,107877.32,UPI,3.0
+ORD0493,2025-10-08,23.0,Female,Monitor,Electronics,South,5,11618.69,58093.45,UPI,2.0
+ORD0492,2025-01-06,53.0,Male,Headphones,Accessories,North,3,2046.99,6140.97,Credit Card,1.0
+ORD0061,2025-02-02,44.0,Female,Keyboard,Accessories,East,2,1274.31,2548.62,Cash,4.0
+ORD0467,2025-11-07,38.0,Female,Laptop,Electronics,West,4,57599.11,230396.44,Debit Card,3.0
+ORD0484,2025-05-25,19.0,Female,Laptop,Electronics,West,4,50983.74,203934.96,Cash,1.0
+ORD0125,2025-12-11,65.0,Female,Monitor,Electronics,West,1,11837.23,11837.23,UPI,1.0
+ORD0166,2025-06-23,61.0,Male,Headphones,Accessories,East,4,1750.74,7002.96,Credit Card,3.0
+ORD0382,2025-07-11,63.0,Female,Monitor,Electronics,North,3,13658.01,40974.03,UPI,3.0
+ORD0423,2025-01-30,56.0,Female,Phone,Electronics,East,5,26991.06,134955.3,Debit Card,1.0
+ORD0169,2025-06-18,26.0,Male,Monitor,Electronics,West,4,12516.58,50066.32,UPI,1.0
+ORD0489,2025-12-11,25.0,Male,Keyboard,Accessories,North,3,1026.08,3078.24,Credit Card,1.0
+ORD0235,2025-01-26,60.0,Male,Mouse,Accessories,South,5,645.25,3226.25,Credit Card,1.0
+ORD0367,2025-10-12,65.0,Male,Laptop,Electronics,North,4,60850.92,243403.68,Cash,1.0
+ORD0360,2025-04-29,51.0,Female,Mouse,Accessories,East,3,614.54,1843.62,Cash,1.0
+ORD0259,2025-01-29,26.0,Female,Keyboard,Accessories,South,2,1214.31,2428.62,UPI,5.0
+ORD0481,2025-07-26,23.0,Female,Phone,Electronics,South,4,25323.1,101292.4,Debit Card,3.0
+ORD0480,2025-12-29,38.0,Male,Monitor,Electronics,South,3,10462.37,31387.11,Credit Card,5.0
+ORD0232,2025-05-21,36.0,Male,Headphones,Accessories,West,5,2034.2,10171.0,Cash,3.0
+ORD0309,2025-11-11,30.0,Female,Phone,Electronics,West,4,24216.87,96867.48,Cash,1.0
+ORD0428,19/06/2025,41.0,Female,Phone,Electronics,East,3,24403.54,73210.62,Cash,1.0
+ORD0110,2025-12-02,27.0,Male,Mouse,Accessories,West,2,681.1,1362.2,UPI,3.0
+ORD0387,2025-03-27,58.0,Male,Phone,Electronics,East,3,28617.85,85853.55,Cash,1.0
+ORD0130,2025-08-16,33.0,Female,Laptop,Electronics,North,3,50334.95,151004.85,UPI,5.0
+ORD0398,2025-07-15,41.0,Male,Keyboard,Accessories,West,2,1153.57,2307.14,Credit Card,3.0
+ORD0293,2025-03-16,22.0,Male,Headphones,Accessories,West,3,1674.94,5024.82,UPI,4.0
+ORD0327,2025-02-17,64.0,Female,Monitor,Electronics,East,1,13328.07,13328.07,Credit Card,5.0
+ORD0463,2025-07-29,24.0,Female,Phone,Electronics,South,4,22303.37,89213.48,Debit Card,1.0
+ORD0340,2025-07-20,36.0,Male,Monitor,Electronics,West ,5,12034.28,60171.4,Cash,4.0
+ORD0443,2025-02-28,24.0,Female,Monitor,Electronics,South,5,10623.84,53119.2,Debit Card,3.0
+ORD0482,2025-11-13,51.0,Female,Headphones,Accessories,North,3,1688.53,5065.59,Credit Card,3.0
+ORD0345,2025-03-21,52.0,Female,Laptop,Electronics,West,5,61945.26,309726.3,Credit Card,3.0
+ORD0086,2025-10-23,58.0,Male,Laptop,Electronics,South,4,54863.82,219455.28,Debit Card,5.0
+ORD0204,2025-02-03,37.0,Female,Phone,Electronics,West ,5,27881.85,139409.25,Cash,4.0
+ORD0102,2025-01-08,53.0,Female,Phone,Electronics,North,2,23580.63,47161.26,Debit Card,1.0
+ORD0175,2025-04-13,56.0,Male,Monitor,Electronics,East,4,13678.57,54714.28,Credit Card,4.0
+ORD0057,2025-03-04,47.0,Male,Keyboard,Accessories,West,1,1220.67,1220.67,UPI,4.0
+ORD0055,2025-11-19,54.0,Male,Monitor,Electronics,West,1,11839.5,11839.5,Cash,4.0
+ORD0063,2025-08-03,52.0,Male,Headphones,Accessories,West,3,1936.88,5810.64,Debit Card,3.0
+ORD0074,2025-09-25,59.0,Female,Mouse,Accessories,West,2,686.45,1372.9,Cash,4.0
+ORD0118,2025-02-24,33.0,Female,Phone,Electronics,East,4,27650.02,110600.08,UPI,3.0
+ORD0212,2025-02-07,62.0,Male,Mouse,Accessories,South,4,657.46,2629.84,Cash,4.0
+ORD0016,2025-11-03,38.0,Female,Monitor,Electronics,,5,13506.58,67532.9,Credit Card,3.0
+ORD0075,2025-05-06,23.0,Female,Mouse,Accessories,West,5,651.36,3256.8,Debit Card,4.0
+ORD0022,2025-10-20,54.0,Female,Phone,Electronics,South,5,22242.34,111211.7,upi,4.0
+ORD0215,2025-01-26,36.0,Female,Keyboard,Accessories,West,2,1070.72,2141.44,Debit Card,2.0
+ORD0303,2025-09-19,65.0,Male,Laptop,Electronics,,1,51019.18,51019.18,UPI,4.0
+ORD0361,23/11/2025,43.0,Male,Monitor,Electronics,North,1,12019.54,12019.54,Cash,2.0
+ORD0018,2025-10-09,28.0,Female,Phone,Electronics,West,2,26198.13,52396.26,Debit Card,5.0
+ORD0193,2025-06-14,24.0,Male,Monitor,Electronics,East,250,12163.71,3000000.0,UPI,3.0
+ORD0151,2025-02-28,40.0,Female,Headphones,Accessories,North,2,1937.67,3875.34,UPI,5.0
+ORD0032,2025-10-17,51.0,Female,Laptop,Electronics,East,4,57596.66,230386.64,Debit Card,3.0
+ORD0424,2025-05-13,,Female,Mouse,Accessories,West,4,804.47,3217.88,Credit Card,5.0
+ORD0139,2025-10-27,53.0,Female,Phone,Electronics,West,3,25932.38,77797.14,UPI,4.0
+ORD0226,2025-12-02,55.0,Male,Monitor,Electronics,North,4,11155.91,44623.64,Cash,2.0
+ORD0112,2025-11-20,61.0,Female,Laptop,Electronics,South,5,47878.94,239394.7,Credit Card,4.0
+ORD0008,2025-05-17,62.0,Male,Headphones,Accessories,South,3,1643.13,4929.39,Debit Card,2.0
+ORD0079,2025-12-21,33.0,Female,Laptop,Electronics,East,3,50406.34,151219.02,Cash,5.0
+ORD0359,2025-09-29,33.0,Female,Mouse,Accessories,West,3,616.83,1850.49,Credit Card,2.0
+ORD0084,2025-03-06,58.0,Female,Monitor,Electronics,North,3,12710.7,38132.1,Credit Card,5.0
+ORD0285,2025-08-12,32.0,Male,Monitor,Electronics,East,3,10393.31,31179.93,Cash,3.0
+ORD0076,2025-06-22,19.0,Female,Monitor,Electronics,East,5,12605.48,63027.4,Debit Card,4.0
+ORD0355,2025-09-22,20.0,Female,Mouse,Accessories,North,1,632.66,632.66,Cash,3.0
+ORD0003,2025-08-18,55.0,Female,Phone,Electronics,North,5,24396.4,121982.0,Debit Card,4.0
+ORD0080,2025-10-09,39.0,Female,Monitor,Electronics,West,3,11731.81,35195.43,UPI,3.0
+ORD0270,2025-07-31,20.0,Male,Headphones,Accessories,South,2,1730.18,3460.36,Credit Card,3.0
+ORD0209,2025-03-28,55.0,Male,Monitor,Electronics,South,1,12009.26,12009.26,UPI,5.0
+ORD0438,2025-03-26,43.0,Male,Keyboard,Accessories,South,3,1290.04,3870.12,Debit Card,2.0
+ORD0342,2025-10-07,61.0,Male,Keyboard,Accessories,West,5,1171.51,5857.55,Credit Card,1.0
+ORD0404,2025-05-13,38.0,Male,Mouse,Accessories,North,2,770.16,1540.32,Cash,5.0
+ORD0315,2025-08-19,57.0,Male,Headphones,Accessories,East,2,1631.03,3262.06,Credit Card,4.0
+ORD0198,2025-09-29,41.0,Female,Keyboard,Accessories,East,1,1226.61,1226.61,UPI,2.0
+ORD0459,2025-10-13,53.0,Male,Laptop,Electronics,North,4,53553.59,214214.36,UPI,5.0
+ORD0456,2025-02-08,49.0,Female,Keyboard,Accessories,South,4,1332.99,5331.96,UPI,3.0
+ORD0140,2025-12-26,25.0,Male,Monitor,Electronics,West,5,11748.72,58743.6,Cash,2.0
+ORD0168,2025-06-08,59.0,Female,Mouse,Accessories,South,2,787.52,1575.04,Credit Card,3.0
+ORD0451,2025-03-23,24.0,Female,Phone,Electronics,West,1,28611.77,28611.77,Cash,2.0
+ORD0279,2025-08-24,-5.0,Male,Laptop,Electronics,South,3,,187735.23,UPI,1.0
+ORD0337,2025-04-20,58.0,Male,Mouse,Accessories,West,2,687.42,1374.84,Cash,2.0
+ORD0101,2025-08-13,,Female,Monitor,Electronics,North,2,13539.62,27079.24,Credit Card,5.0
+ORD0306,2025-02-19,46.0,Female,Monitor,Electronics,East,4,11453.88,45815.52,Credit Card,3.0
+ORD0485,2025-02-12,24.0,Male,Headphones,Accessories,North,2,1702.97,3405.94,Credit Card,2.0
+ORD0497,2025-04-10,38.0,Female,Headphones,Accessories,West,5,1567.7,7838.5,UPI,5.0
+ORD0311,2025-12-10,,Female,Phone,Electronics,West,4,22104.66,88418.64,Cash,5.0
+ORD0461,2025-11-04,48.0,Female,Headphones,Accessories,West,5,1944.4,9722.0,Credit Card,1.0
+ORD0155,2025-08-24,22.0,Female,Mouse,Accessories,West,1,686.61,686.61,Cash,4.0
+ORD0132,2025-01-26,39.0,Male,Mouse,Accessories,South,5,798.93,3994.65,Debit Card,1.0
+ORD0494,2025-04-05,32.0,Female,Keyboard,Accessories,South,5,1071.28,5356.4,Credit Card,2.0
+ORD0271,2025-08-02,36.0,Male,Monitor,Electronics,South,5,12284.91,61424.55,UPI,2.0
+ORD0115,2025-11-14,61.0,Male,Laptop,Electronics,West,5,61118.85,305594.25,Debit Card,
+ORD0218,2025-09-11,56.0,Female,Headphones,Accessories,East,1,1557.29,1557.29,Credit Card,1.0
+ORD0486,2025-08-06,24.0,Male,Mouse,Accessories,West,2,776.64,1553.28,Credit Card,2.0
+ORD0392,2025-02-17,39.0,Female,Phone,Electronics,North,1,25352.85,25352.85,Cash,2.0
+ORD0091,2025-11-17,55.0,Male,Mouse,Accessories,West,2,789.02,1578.04,Credit Card,5.0
+ORD0211,2025-11-18,52.0,Female,Mouse,Accessories,East,1,699.59,699.59,Cash,2.0
+ORD0227,2025-07-14,27.0,Male,Monitor,Electronics,North,5,12988.58,64942.9,Credit Card,2.0
+ORD0465,2025-08-19,47.0,Male,Mouse,Accessories,West,5,,3104.4,Credit Card,5.0
+ORD0470,2025-06-15,63.0,Male,Monitor,Electronics,East,5,12699.52,63497.6,Cash,5.0
+ORD0300,2025-07-13,22.0,Female,Headphones,Accessories,West,2,1916.23,3832.46,Cash,5.0
+ORD0152,2025-01-24,32.0,Female,Keyboard,Accessories,North,5,1260.17,6300.85,Credit Card,2.0
+ORD0354,2025-06-13,35.0,Male,Phone,Electronics,East,4,28118.91,112475.64,Credit Card,5.0
+ORD0453,2025-05-14,59.0,Female,Keyboard,Accessories,North,4,1036.55,4146.2,Debit Card,3.0
+ORD0386,2025-10-17,24.0,Female,Headphones,Accessories,South,5,1649.28,8246.4,UPI,1.0
+ORD0436,2025-10-29,37.0,Male,Phone,Electronics,North,1,24126.63,24126.63,Credit Card,3.0
+ORD0264,2025-08-02,53.0,Male,Laptop,Electronics,West,5,53559.18,267795.9,Debit Card,3.0
+ORD0260,2025-03-15,60.0,Male,Monitor,Electronics,,3,11052.85,33158.55,UPI,3.0
+ORD0431,2025-08-23,,Female,Keyboard,Accessories,South,5,1341.42,6707.1,Credit Card,4.0
+ORD0439,2025-03-28,25.0,Female,Phone,Electronics,North,1,25672.7,25672.7,Cash,
+ORD0447,2025-03-31,20.0,Female,Keyboard,Accessories,East,1,1055.93,1055.93,UPI,4.0
+ORD0037,2025-05-25,56.0,Male,Laptop,Electronics,East,5,49314.89,246574.45,Debit Card,3.0
+ORD0363,2025-03-11,55.0,Male,Phone,Electronics,South,1,28326.66,28326.66,Credit Card,2.0
+ORD0335,2025-02-15,64.0,Male,Keyboard,Accessories,North,0,1102.42,0.0,UPI,
+ORD0384,2025-04-25,60.0,Male,Mouse,Accessories,West,5,760.27,3801.35,UPI,3.0
+ORD0159,2025-03-16,34.0,Male,Mouse,Accessories,South,2,644.62,1289.24,Debit Card,1.0
+ORD0478,2025-03-08,28.0,Female,Keyboard,Accessories,North,3,1220.38,3661.14,UPI,4.0
+ORD0001,2025-05-21,33.0,Male,Mouse,Accessories,South,1,600.25,600.25,Credit Card,5.0
+ORD0042,2025-03-21,,Male,Monitor,Electronics,South,4,13705.81,54823.24,Cash,1.0
+ORD0035,2025-07-09,36.0,Male,Headphones,Accessories,West,1,2004.81,2004.81,UPI,5.0
+ORD0401,2025-09-01,54.0,Male,Keyboard,Accessories,West,5,1267.34,6336.7,UPI,1.0
+ORD0473,2025-06-01,31.0,Male,Phone,Electronics,East,1,26429.46,26429.46,Cash,1.0
+ORD0069,2025-03-06,48.0,Male,Laptop,Electronics,SOUTH,5,49264.31,246321.55,Cash,3.0
+ORD0330,2025-03-22,46.0,Female,Laptop,Electronics,North,1,62085.64,62085.64,Cash,2.0
+ORD0011,2025-03-13,33.0,Female,Mouse,Accessories,West,4,625.0,2500.0,Cash,3.0
+ORD0014,2025-08-11,28.0,Female,Headphones,Accessories,North,3,1590.24,4770.72,UPI,5.0
+ORD0422,2025-11-24,38.0,Female,Laptop,Electronics,East,3,63057.96,189173.88,UPI,2.0
+ORD0238,2025-01-20,29.0,Female,Mouse,Accessories,West ,5,643.77,3218.85,Credit Card,4.0
+ORD0190,2025-11-28,30.0,Female,Keyboard,Accessories,East,3,1033.18,3099.54, cash ,3.0
+ORD0466,2025-08-10,55.0,Female,Mouse,Accessories,South,1,711.18,711.18,Debit Card,2.0
+ORD0440,2025-01-25,,Male,Monitor,Electronics,North,5,10374.91,51874.55,Credit Card,1.0
+ORD0258,2025-08-17,56.0,Male,Laptop,Electronics, north ,1,56550.08,56550.08,Credit Card,4.0
+ORD0298,2025-10-16,30.0,Male,Headphones,Accessories,,4,1727.11,6908.44,Cash,2.0
+ORD0194,2025-03-27,62.0,Female,Keyboard,Accessories,East,5,1278.36,6391.8,Cash,1.0
+ORD0349,2025-03-02,19.0,Female,Mouse,Accessories,West,3,748.92,2246.76,UPI,5.0
+ORD0039,2025-05-15,28.0,,Headphones,Accessories,West,2,1874.04,3748.08,Credit Card,1.0
+ORD0095,2025-12-12,54.0,Male,Headphones,Accessories,East,1,1579.32,1579.32,Credit Card,2.0
+ORD0004,2025-06-22,24.0,Male,Headphones,Accessories,West,3,1613.96,4841.88,Credit Card,3.0
+ORD0309,2025-11-11,30.0,Female,Phone,Electronics,West,4,24216.87,96867.48,Cash,1.0
+ORD0286,2025-08-19,49.0,Male,Laptop,Electronics,East,3,59678.54,179035.62,Cash,4.0
+ORD0082,2025-10-29,51.0,Female,Mouse,Accessories,North,4,653.06,2612.24,Debit Card,3.0
+ORD0126,2025-11-14,53.0,Female,Mouse,Accessories,South,2,694.01,1388.02,Credit Card,4.0
+ORD0475,2025-12-17,38.0,Male,Keyboard,Accessories,North,4,1169.96,4679.84,UPI,2.0
+ORD0184,2025-10-20,44.0,Male,Laptop,Electronics,North,5,52571.46,262857.3,UPI,1.0
+ORD0433,2025-02-15,26.0,Female,Monitor,Electronics,West,2,11962.48,23924.96,Cash,4.0
+ORD0394,2025-05-25,37.0,Male,Mouse,Accessories,,5,650.71,3253.55,Credit Card,4.0
+ORD0206,2025-10-10,58.0,Male,Headphones,Accessories,South,2,2004.1,4008.2,Cash,5.0
+ORD0378,2025-12-24,40.0,Male,Phone,Electronics,East,5,23635.03,118175.15,Debit Card,5.0
+ORD0268,2025-05-03,53.0,Female,Mouse,Accessories,East,2,678.29,1356.58,Cash,4.0
+ORD0427,2025-10-14,29.0,Female,Mouse,Accessories,North,3,747.29,2241.87,Debit Card,3.0
+ORD0050,2025-03-05,64.0,Female,Monitor,Electronics,East,3,12588.19,37764.57,Cash,3.0
+ORD0395,2025-03-20,21.0,Female,Monitor,Electronics,North,5,13223.48,66117.4,Cash,1.0
+ORD0432,2025-01-30,18.0,Female,Headphones,Accessories,East,2,1699.24,3398.48,Debit Card,2.0
+ORD0066,2025-07-14,38.0,Male,Keyboard,Accessories,West,2,1038.1,2076.2,UPI,3.0
+ORD0397,2025-07-23,48.0,Female,Keyboard,Accessories,East,1,1131.01,1131.01,Credit Card,
+ORD0068,2025-02-05,59.0,Male,Laptop,Electronics,North,3,50449.67,151349.01,Debit Card,2.0
+ORD0338,2025-03-05,55.0,Female,Laptop,Electronics,East,1,49060.22,49060.22,Cash,3.0
+ORD0346,2025-05-03,21.0,Male,Mouse,Accessories,North,4,748.29,2993.16,Cash,1.0
+ORD0222,2025-04-12,56.0,Female,Monitor,Electronics,North,3,12917.87,38753.61,Credit Card,1.0
+ORD0331,2025-06-04,,Female,Mouse,Accessories,North,2,780.25,1560.5,UPI,3.0
+ORD0343,2025-04-21,20.0,Male,Monitor,Electronics,West,1,10249.66,10249.66,upi,5.0
+ORD0195,2025-08-11,35.0,Male,Mouse,Accessories,North,3,724.12,2172.36,Cash,3.0
+ORD0288,2025-11-21,27.0,Female,Headphones,Accessories,East,2,1735.2,3470.4,UPI,1.0
+ORD0033,2025-12-10,59.0,Female,Phone,Electronics,West,3,24218.39,72655.17, cash ,1.0
+ORD0488,2025-04-27,34.0,Female,Monitor,Electronics,West,1,12269.86,12269.86,Cash,4.0
+ORD0162,2025-01-20,21.0,Female,Laptop,Electronics,East,3,54368.75,163106.25,Credit Card,1.0
+ORD0028,2025-12-23,64.0,Female,Headphones,Accessories,South,4,1684.03,6736.12,Debit Card,3.0
+ORD0399,2025-05-18,54.0,Male,Keyboard,Accessories,South,4,1114.82,4459.28,Credit Card,1.0
+ORD0308,2025-10-14,45.0,Female,Phone,Electronics,South,5,22451.02,112255.1,Cash,2.0
+ORD0002,2025-01-16,23.0,Male,Laptop,Electronics,South,5,53711.71,268558.55,Credit Card,5.0
+ORD0228,2025-03-19,44.0,Male,Laptop,Electronics,West,4,51925.93,207703.72,Cash,1.0
+ORD0145,2025-09-04,32.0,Male,Monitor,Electronics,East,2,10757.03,21514.06,UPI,1.0
+ORD0370,2025-08-25,21.0,Male,Laptop,Electronics,West,3,48771.71,146315.13,Cash,4.0
+ORD0314,2025-08-05,29.0,Female,Monitor,Electronics,South,2,12269.3,24538.6,Debit Card,4.0
+ORD0408,2025-11-08,61.0,Female,Headphones,Accessories,North,4,1607.68,6430.72,Cash,3.0
+ORD0472,2025-01-29,30.0,Female,Keyboard,Accessories,South,2,1039.1,2078.2,UPI,3.0
+ORD0163,2025-08-25,55.0,Male,Monitor,Electronics,West,5,12025.44,60127.2,Debit Card,3.0
+ORD0133,2025-04-30,39.0,Male,Monitor,Electronics,North,2,12310.98,24621.96,UPI,2.0
+ORD0353,2025-03-18,29.0,Male,Keyboard,Accessories,West,3,1157.87,3473.61,Debit Card,3.0
+ORD0255,2025-10-03,43.0,Male,Phone,Electronics,South,3,22139.75,66419.25,Credit Card,1.0
+ORD0246,2025-11-24,36.0,Female,Mouse,Accessories,South,3,739.96,2219.88,Debit Card,2.0
+ORD0296,2025-06-14,56.0,Male,Keyboard,Accessories,West,5,1069.0,5345.0,UPI,2.0
+ORD0019,2025-07-24,60.0,Female,Mouse,Accessories,West,2,,1489.44,Cash,1.0
+ORD0172,2025-12-21,57.0,Male,Keyboard,Accessories,West,2,1078.41,2156.82,Credit Card,4.0
+ORD0006,2025-11-13,41.0,Male,Monitor,Electronics,SOUTH,3,13185.86,39557.58,Credit Card,2.0
+ORD0304,2025-03-19,40.0,Male,Keyboard,Accessories,West,5,1268.56,6342.8,Credit Card,3.0
+ORD0207,2025-06-05,28.0,Male,Laptop,Electronics,East,1,55298.69,55298.69,Debit Card,3.0
+ORD0221,2025-03-02,26.0,Male,Headphones,Accessories,West,5,1897.42,9487.1,UPI,3.0
+ORD0154,2025-07-14,52.0,Male,Mouse,Accessories,East,4,631.9,2527.6,Credit Card,4.0
+ORD0065,2025-07-21,55.0,Male,Monitor,Electronics,North,5,10297.08,51485.4,Cash,2.0
+ORD0108,2025-12-28,42.0,Female,Laptop,Electronics,South,3,59037.64,177112.92,Cash,1.0
+ORD0127,2025-03-01,26.0,Male,Mouse,Accessories,North,3,731.34,2194.02,UPI,4.0
+ORD0282,2025-01-24,22.0,Female,Mouse,Accessories,North,5,694.86,3474.3,Debit Card,3.0
+ORD0281,2025-11-27,39.0,Male,Laptop,Electronics,North,4,60697.94,242791.76,Debit Card,2.0
+ORD0104,2025-03-16,42.0,Male,Keyboard,Accessories,South,2,1184.44,2368.88,Credit Card,3.0
+ORD0059,2025-09-24,49.0,Male,Phone,Electronics,East,3,26993.6,80980.8,Cash,1.0
+ORD0009,2025-11-24,62.0,Male,Keyboard,Accessories,East,4,1117.18,4468.72,Credit Card,2.0
+ORD0034,2025-10-16,24.0,Male,Laptop,Electronics,South,4,56999.13,227996.52,UPI,2.0
+ORD0072,2025-06-27,,Female,Laptop,Electronics,East,5,59663.48,298317.4,Credit Card,5.0
+ORD0122,2025-03-09,52.0,Female,Mouse,Accessories,East,4,631.88,2527.52,Debit Card,3.0
+ORD0323,2025-05-17,50.0,Male,Mouse,Accessories,South,3,655.76,1967.28,Cash,1.0
+ORD0182,2025-08-03,58.0,Female,Headphones,Accessories,North,1,1555.78,1555.78,Credit Card,4.0
+ORD0250,2025-10-26,49.0,Male,Keyboard,Accessories,West,1,1264.91,1264.91,Credit Card,4.0
+ORD0471,2025-10-01,36.0,Female,Monitor,Electronics,North,4,12627.28,50509.12,Credit Card,1.0
+ORD0064,2025-06-22,60.0,Female,Keyboard,Accessories,South,4,1030.45,4121.8,Cash,2.0
+ORD0113,2025-12-22,37.0,Male,Laptop,Electronics,North,1,54070.7,54070.7,UPI,1.0
+ORD0161,2025-11-20,37.0,Female,Keyboard,Accessories,North,1,1188.81,1188.81,UPI,5.0
+ORD0487,2025-01-20,23.0,Male,Laptop,Electronics,North,4,58578.33,234313.32,Debit Card,3.0
+ORD0219,2025-07-07,43.0,Female,Keyboard,Accessories,North,2,1337.68,2675.36,Cash,1.0
+ORD0251,2025-10-16,21.0,Female,Phone,Electronics,East,5,24365.68,121828.4,Credit Card,4.0
+ORD0417,2025-07-17,21.0,Male,Mouse,Accessories,,1,654.86,654.86,Debit Card,2.0
+ORD0410,2025-12-23,61.0,Male,Headphones,Accessories,South,3,1985.14,5955.42,Debit Card,3.0
+ORD0231,2025-06-02,36.0,Male,Headphones,Accessories,West,5,1691.19,8455.95,UPI,4.0
+ORD0444,2025-07-29,36.0,Male,Monitor,Electronics,North,2,11488.52,22977.04,Cash,2.0
+ORD0287,2025-02-13,57.0,Female,Phone,Electronics,South,5,26205.04,131025.2,Credit Card,1.0
+ORD0333,2025-01-01,31.0,Female,Keyboard,Accessories,North,1,1273.33,1273.33,Debit Card,5.0
+ORD0389,2025-03-27,44.0,Female,Keyboard,Accessories,West,4,1283.73,5134.92,UPI,5.0
+ORD0119,2025-10-17,61.0,Male,Laptop,Electronics,West,4,51278.93,205115.72,UPI,2.0
+ORD0442,2025-12-06,51.0,Female,Headphones,Accessories,South,4,1887.3,7549.2,Cash,1.0
+ORD0236,2025-02-21,61.0,Male,Keyboard,Accessories,North,3,1278.25,3834.75,Debit Card,4.0
+ORD0326,2025-05-23,62.0,Female,Mouse,Accessories,West,1,679.6,679.6,Cash,3.0
+ORD0476,2025-11-21,63.0,Female,Monitor,Electronics,South,4,13187.94,52751.76,Debit Card,3.0
+ORD0385,2025-12-26,54.0,Female,Phone,Electronics,North,2,26716.23,53432.46,Debit Card,5.0
+ORD0366,2025-07-02,43.0,Male,Phone,Electronics,East,1,26583.68,26583.68,UPI,2.0
+ORD0138,2025-08-16,22.0,Male,Mouse,Accessories,East,1,697.96,697.96,Debit Card,1.0
+ORD0029,2025-10-05,21.0,Female,Phone,Electronics,North,1,25593.85,25593.85,Credit Card,5.0
+ORD0347,2025-06-08,60.0,Male,Keyboard,Accessories,North,5,1239.18,6195.9,Credit Card,2.0
+ORD0391,2025-05-14,24.0,Male,Laptop,Electronics,East,3,47081.29,141243.87,Debit Card,4.0
+ORD0272,2025-09-13,53.0,Female,Keyboard,Accessories,East,5,1320.01,6600.05,Cash,4.0
+ORD0339,2025-02-13,33.0,Female,Phone,Electronics,North,2,23327.26,46654.52,UPI,2.0
+ORD0241,2025-08-23,59.0,Female,Phone,Electronics,South,1,23730.13,23730.13,Credit Card,3.0
+ORD0269,2025-07-04,50.0,Female,Monitor,Electronics,West,3,11310.32,33930.96,Credit Card,4.0
+ORD0418,2025-07-29,50.0,Male,Mouse,Accessories,North,2,651.51,1303.02,Cash,2.0
+ORD0249,2025-09-16,30.0,Male,Laptop,Electronics,South,1,60424.77,60424.77,UPI,5.0
+ORD0415,2025-03-05,61.0,Male,Monitor,Electronics,South,4,12487.48,49949.92,UPI,4.0
+ORD0292,2025-10-14,120.0,Male,Keyboard,Accessories,West,1,1280.94,1280.94,Debit Card,2.0
+ORD0081,2025-04-09,38.0,Male,Headphones,Accessories,South,2,1595.15,3190.3,Debit Card,2.0
+ORD0262,2025-06-13,62.0,Female,Mouse,Accessories,SOUTH,4,760.02,3040.08,Debit Card,3.0
+ORD0310,2025-12-27,22.0,Male,Mouse,Accessories,South,2,638.21,1276.42,UPI,3.0
+ORD0033,2025-12-10,59.0,Female,Phone,Electronics,West,3,24218.39,72655.17, cash ,1.0
+ORD0237,2025-04-13,36.0,Female,Mouse,Accessories,East,4,695.26,2781.04,Credit Card,1.0
+ORD0441,2025-10-08,34.0,Female,Keyboard,Accessories,South,4,1156.89,4627.56,Debit Card,1.0
+ORD0051,2025-04-09,44.0,Female,Keyboard,Accessories,South,3,1219.59,3658.77,UPI,4.0
+ORD0455,2025-10-13,57.0,Male,Mouse,Accessories,North,4,626.22,2504.88,Debit Card,5.0
+ORD0275,2025-03-19,18.0,Male,Mouse,Accessories,West,2,609.27,1218.54,UPI,1.0
+ORD0230,2025-07-01,61.0,Female,Keyboard,Accessories,West,5,1143.24,5716.2,Debit Card,2.0
+ORD0134,2025-03-31,25.0,Male,Phone,Electronics,South,5,,115649.55,Credit Card,3.0
+ORD0170,2025-04-20,39.0,Female,Headphones,Accessories,South,3,1627.34,4882.02,Debit Card,2.0
+ORD0185,2025-09-17,53.0,Male,Monitor,Electronics,West,5,12026.38,60131.9,Cash,1.0
+ORD0205,2025-06-12,59.0,Male,Monitor,Electronics,West,1,10651.18,10651.18,Cash,5.0
+ORD0376,2025-08-30,51.0,,Headphones,Accessories,South,1,1966.67,1966.67,Debit Card,
+ORD0149,2025-06-16,54.0,Male,Phone,Electronics,SOUTH,3,23587.28,70761.84,Debit Card,2.0
+ORD0316,2025-10-15,50.0,Female,Phone,Electronics,West,2,27364.12,54728.24,Cash,4.0
+ORD0085,2025-06-24,29.0,Male,Headphones,Accessories,East,4,1788.51,7154.04,Cash,1.0
+ORD0357,2025-07-08,55.0,Female,Headphones,Accessories,South,5,1661.0,8305.0,Debit Card,2.0
+ORD0239,2025-05-29,20.0,Male,Keyboard,Accessories,East,2,1357.18,2714.36,Credit Card,3.0
+ORD0305,2025-03-14,40.0,Female,Keyboard,Accessories,East,1,1061.78,1061.78,Cash,2.0
+ORD0123,2025-06-23,25.0,Female,Keyboard,Accessories,SOUTH,3,1288.76,3866.28,Debit Card,2.0
+ORD0247,2025-11-07,41.0,Female,Keyboard,Accessories,West,2,1183.79,2367.58,Debit Card,2.0
+ORD0491,2025-10-01,32.0,Male,Keyboard,Accessories,West,1,1190.64,1190.64,UPI,2.0
+ORD0234,2025-10-15,62.0,Female,Phone,Electronics,South,5,23283.5,116417.5,Credit Card,5.0
+ORD0254,2025-07-15,46.0,Female,Phone,Electronics,West,4,24058.46,96233.84,Credit Card,5.0
+ORD0318,2025-03-28,47.0,Female,Headphones,Accessories,North,2,1820.31,3640.62,Credit Card,3.0
+ORD0429,2025-10-26,55.0,Male,Keyboard,Accessories,West,1,1331.9,1331.9,Debit Card,5.0
+ORD0448,2025-01-24,18.0,Male,Mouse,Accessories,South,1,614.95,614.95,UPI,3.0
+ORD0111,2025-06-18,61.0,Female,Monitor,Electronics,East,4,12539.41,50157.64,Cash,5.0
+ORD0329,2025-09-06,39.0,Male,Monitor,Electronics,North,5,10670.14,53350.7,Credit Card,4.0
+ORD0203,2025-09-10,19.0,Female,Phone,Electronics,East,2,23025.52,46051.04,Cash,5.0
+ORD0242,2025-04-09,29.0,Female,Headphones,Accessories,West,5,1894.18,9470.9,UPI,
+ORD0099,2025-07-26,50.0,Male,Headphones,Accessories,West,1,2053.9,2053.9,Cash,1.0
+ORD0189,2025-04-13,20.0,Female,Laptop,Electronics,East,3,50076.25,150228.75,Cash,5.0
+ORD0420,2025-04-22,47.0,Female,Keyboard,Accessories,West,3,1185.24,3555.72,Credit Card,1.0
+ORD0121,2025-07-06,64.0,Male,Headphones,Accessories,North,4,1548.02,6192.08,UPI,3.0
+ORD0369,2025-02-08,19.0,Male,Monitor,Electronics,South,5,11131.75,55658.75,Cash,2.0
+ORD0049,2025-12-10,30.0,Female,Monitor,Electronics,West,5,12672.69,63363.45,Credit Card,3.0
+ORD0261,2025-03-31,58.0,Female,Laptop,Electronics,West,5,62400.58,312002.9,Credit Card,3.0
+ORD0313,2025-03-01,29.0,Female,Headphones,Accessories,South,1,1658.83,1658.83,Cash,4.0
+ORD0208,2025-05-09,30.0,Female,Monitor,Electronics,,3,13245.36,39736.08,UPI,5.0
+ORD0458,2025-09-13,46.0,Female,Keyboard,Accessories,North,5,,5906.6,Cash,1.0
